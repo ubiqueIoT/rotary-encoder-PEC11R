@@ -39,9 +39,4 @@
   (pad "A" thru_hole rect (at -2.5 7.5) (size 1.55 1.55) (drill 1) (layers *.Cu) (tstamp b0c1f62a-b351-48b8-ac88-59c1c4ffa2ff))
   (pad "B" thru_hole circle (at 2.5 7.5) (size 1.55 1.55) (drill 1) (layers *.Cu) (tstamp 2f389684-fc2a-46a1-b11d-5ff1e4efe356))
   (pad "C" thru_hole circle (at 0 7.5) (size 1.55 1.55) (drill 1) (layers *.Cu) (tstamp 525775d5-0e6e-4c76-b5ab-199b2e54ac41))
-  (model "/Users/ericpietrowicz/Documents/KiCad/6.0/3dmodels/Bourns_-_PEC11R-4220F-S0024.step"
-    (offset (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
 )
