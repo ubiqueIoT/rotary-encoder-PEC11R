@@ -1,5 +1,6 @@
-# Adafruit's PEC11R-4220F-S0024 Rotary encoder footprint and 3D model for KiCAD
+# Adafruit's PEC11R-4220F-S0024 Rotary encoder for KiCAD
 
+### How to use this footprint
 1. Download .zip file containing this repository's contents
 2. Open the footprint editor
 
