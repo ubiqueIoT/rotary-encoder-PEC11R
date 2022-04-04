@@ -13,9 +13,16 @@
 
 ![image](https://user-images.githubusercontent.com/8181497/161558487-8d21fe83-2ae9-463d-9c0e-ae77a2662d33.png)
 
+5. Open the 3D models option in the edit footprint properties modal
 
+![image](https://user-images.githubusercontent.com/8181497/161558932-85d89b28-0bf3-4e37-aada-64f01bdd07eb.png)
 
+6. Choose the "+" icon to add a new 3D model
+7. Select the .step file downloaded from this repository
+8. Validate the model's fitment on the footprint
 
-Save footprint in the desired library
+![image](https://user-images.githubusercontent.com/8181497/161559160-b21f16d8-0717-4080-880f-5cf29d9e8f13.png)
+
+9. Save footprint in the desired library
 
 ![image](https://user-images.githubusercontent.com/8181497/161558650-d94610f2-8f35-4de9-ad01-e79b5bd0bc29.png)
